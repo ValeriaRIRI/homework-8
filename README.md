@@ -15,6 +15,7 @@
 6. Конец
 ## Блок-схема
 <img width="368" height="571" alt="homework 8 drawio" src="https://github.com/user-attachments/assets/6073df84-c1bd-4574-8874-5dfcfa899fe1" />
+
 ### Результат работы программы
  Введите число N: 3
  Сумма выражения равна 86,000000
